@@ -19,3 +19,9 @@ body {
     margin-right: auto;
     width: 50%;
   }
+
+  li {
+    list-style-type: none;
+    text-align: center;
+    font-size: large;
+  }
